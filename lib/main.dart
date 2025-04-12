@@ -154,7 +154,7 @@ class _PaletteScreenState extends State<PaletteScreen> {
                   onPressed: _generateColors,
                   style: ElevatedButton.styleFrom(
                     padding: const EdgeInsets.symmetric(horizontal: 40, vertical: 20),
-                    backgroundColor: Colors.pink[400],
+                    backgroundColor: Colors.pink[200],
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(30),
                     ),
